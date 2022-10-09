@@ -1,0 +1,4 @@
+#####
+this repo is the sameple to show how to accelerate inference step by step
+####
+yolo_cpu is the origin inference project,just export onnx of yolov5 from official pytorch code,others is completed by cpu.and yolo_gpu is accelerated with cuda.
